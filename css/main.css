@@ -1,0 +1,112 @@
+.topbar {
+	display: block;
+	max-width: 100%;
+	height: 60px;
+	background: #232323; 
+}
+
+body {
+	background-color: #010101;
+}
+
+.toplogo {
+	display: block;
+	padding-top: 15px;
+	margin: auto;
+	width: 35px;
+}
+
+.menu {
+	width: 100%;
+	padding: 15px 10px;
+	border-bottom: 1px solid #333;
+}
+
+.menulogo {
+	height: 30px;
+}
+
+.buy button {
+	float: right;
+	font-weight: 600;
+}
+
+.banner img {
+	display: block;
+	padding-top: 30px;
+	margin: auto;
+	width: 35px;
+	width: 75%;
+}
+
+.container {
+	width: 90%;
+}
+
+.z1 {
+	margin-top: 20px;
+	width: 100%;
+}
+
+
+.wordsname {
+	padding: 10px 0 15px 0;
+	font-size: 30px;
+	font-weight: 600;
+	color: white;
+}
+
+.wordstitle {
+	padding-top: 10px;
+	font-size: 25px;
+	font-weight: 600;
+	color: white;
+}
+
+.wordsdesc {
+	padding-bottom: 10px;
+	font-size: 16px;
+	color: #999;
+}
+
+.content img {
+	width: 100%;
+}
+
+
+.png7 {
+	display: block;
+	padding-top: 30px;
+	margin: auto;
+	width: 75%;
+}
+
+.z3 {
+	width: 100%;
+}
+
+
+.banner {
+	margin-top: 15px;
+	width: 100%;
+}
+
+.buy {
+	margin: 38px 0 20px 0;
+}
+
+.buyb {
+	width: 100%;
+}
+
+.words7 {
+	font-size: 25px;
+	margin-top: 30px;
+	font-weight: 700;
+	background-image: url(http://ww1.sinaimg.cn/large/005JEV9wgy1fy3582ir5zj30v91jktb4.jpg);
+	background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
